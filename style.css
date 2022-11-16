@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: fit-content;
+    background-color: lightgrey;
+    margin-top: 20%;
+}
+
+header {
+    font-family: 'Barlow Condensed', sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: black;
+    border: 2px solid lightgray;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    font-family: 'Barlow Condensed', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.add-new {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    gap: 1rem
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+}
+
+#task-list {
+    list-style: none;
+    margin-right: 50px;
+}
+
+#task-input {
+    font-family: 'Barlow Condensed', sans-serif;
+    text-align: center;
+    width: 200px;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    gap: 0.5rem;
+}
+
+.completed {
+    text-decoration: line-through;
+}

@@ -1,4 +1,4 @@
-# Js-Todo-List
+# Js-Todo-List with Local Storage
 
 ##### Note:
 I know to-do lists are everywhere, but this was one of my very first projects from school that I felt good about finishing it. So it's special to me.

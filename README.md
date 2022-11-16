@@ -12,8 +12,6 @@ I'm proud of this one here :smily
 - HTML
 
 #### Project Requests:
-
-- List new tasks.
 - Line-through tasks that were done my clicking on them.
 - A button to remove finished tasks.
 - A button to remove all tasks.

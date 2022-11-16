@@ -6,6 +6,11 @@ I was fairly new to web development (and I still am), so I had to do some docume
 Specially setting up the local storage, it was quite a class.
 I'm proud of this one here :smily
 
+#### Technologies:
+- JavaScript
+- Css (bootstrap)
+- HTML
+
 #### Project Requests:
 
 - List new tasks.

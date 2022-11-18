@@ -17,3 +17,4 @@ I'm proud of this one here.
 - A button to remove all tasks.
 - Local Storage for both adding and removing tasks.
 
+#### Check out this project here: https://carlospsvieira.github.io/Js-Todo-List/
